@@ -1,0 +1,5 @@
+{
+  "watch": ["jeeydev.js", "config.js", "lib/handler.js", "lib/main.js", "lib/functions.js"],
+  "ignore": ["session", "*.log"],
+  "ext": "js,json"
+}
