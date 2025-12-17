@@ -1,0 +1,10 @@
+[
+  {
+    "price": 500,
+    "code": "one",
+    "name": "Semvack",
+    "note": "satu",
+    "available": 0,
+    "sold": 3
+  }
+]
